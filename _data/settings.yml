@@ -1,3 +1,4 @@
+
 #-------------------------------
 # General Site Settings
 
@@ -50,7 +51,7 @@ social:
 
 # About Section
 blurb:
-  "Tuan Tani” is a business unit engaged in fruit and vegetable trading. "Tuan Tani" is one of the trademarks under the auspices of PT. Athalani Dayu Niaga. Our products are planted organically in agricultural area in Java island, Indonesia, capable of producing abundant high quality vegetation and crops. 
+  Tuan Tani is a business unit engaged in fruit and vegetable trading. Tuan Tani is one of the trademarks under the auspices of PT. Athalani Dayu Niaga. Our products are planted organically in agricultural area in Java island, Indonesia, capable of producing abundant high quality vegetation and crops. 
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
