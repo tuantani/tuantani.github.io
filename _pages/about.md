@@ -1,18 +1,16 @@
 ---
 layout: about
-title: About Me
-author: Johnathan Smith
-image: assets/images/about/author.jpg
+title: About Tuan Tani
+author: PT Athalani Dayu Niaga
 signature: assets/images/about/signature.png
 ---
+“Tuan Tani” is a business unit engaged in fruit and vegetable trading. "Tuan Tani" is one of the trademarks under the auspices of PT. Athalani Dayu Niaga.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+Our products are planted organically in agricultural area in Java island, Indonesia, capable of producing abundant high quality vegetation and crops.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+Since 2020 “Tuan Tani” has been expanding their business to global market and exporting to countries worldwide.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Our main trading areas are in Jombang & Surabaya, Indonesia, and expanded with marketing in the Jakarta area.
+
+
+
