@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Tuantani 
+title: Kross
 logo: 
 author: tuantani
 description: Tuan Tani Sang Sadana
@@ -74,29 +74,29 @@ work-process:
 
 
 # My Team Section
-#team:
-#  - title : "Jack Schenziwe"
-#    image : "assets/images/team/member-1.png"
-#    designation : "Project Manager"
-#    
-#  - title : "Julias Carlie"
-#    image : "assets/images/team/member-2.png"
-#    designation : "Web Developer"
-#    
-#  - title : "John Doe"
-#    image : "assets/images/team/member-3.png"
-#    designation : "Designer"
+team:
+  - title : "Jack Schenziwe"
+    image : "assets/images/team/member-1.png"
+    designation : "Project Manager"
+    
+  - title : "Julias Carlie"
+    image : "assets/images/team/member-2.png"
+    designation : "Web Developer"
+    
+  - title : "John Doe"
+    image : "assets/images/team/member-3.png"
+    designation : "Designer"
 
 
 #-------------------------------
 # Skills Section
 
-#skills-title: Our Commodities
-#skills:
-#- {name: Web Design, color: '#fdb157', value: '90%'}
-#- {name: Logo Design, color: '#9473e6', value: '60%'}
-#- {name: After Effects, color: '#bdecf6', value: '80%'}
-#- {name: Web App, color: '#ffbcaa', value: '70%'}
+skills-title: Our Commodities
+skills:
+- {name: Web Design, color: '#fdb157', value: '90%'}
+- {name: Logo Design, color: '#9473e6', value: '60%'}
+- {name: After Effects, color: '#bdecf6', value: '80%'}
+- {name: Web App, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
