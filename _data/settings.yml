@@ -1,12 +1,14 @@
 #-------------------------------
 # General Site Settings
-title: TuanTani
-logo: "assets/images/tuantani.png"
+
+title: Tuantani
+logo: 
 author: tuantani
-description: Tuan tani 
+description: Tuan Tani Sang Sadana
 email: tuantani.id@gmail.com
 phone: +62 823 1274 1778
 address: Surabaya City 
+copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: About, link: '/about'}
